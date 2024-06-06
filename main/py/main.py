@@ -1,0 +1,1 @@
+print("Tady mám věci do školy.")
