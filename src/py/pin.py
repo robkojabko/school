@@ -1,7 +1,7 @@
 pin = 4851
 attempts = 3
 inp = int(None)
-corr = bool(None)
+corr = False
 
 print("***Vítejte v naší bance***")
 print("Pro přístup k vašemu účtu je nutné zadat čtyřmístný PIN")
